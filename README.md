@@ -16,6 +16,8 @@ and **self-cleaving inteins**, integrated into a **hollow-fiber bioreactor**.
 A **modular, decentralized biomanufacturing platform** capable of producing insulin at near-industrial purity  
 in localized, low-cost facilities.
 
+
+REMARKS- DOCKING AND EVERYTHING WORKS WELL, SHOULD WORK
 ---
 
 *This is a showcase repo. Contains design documents and lab planning only (no executable code).*
